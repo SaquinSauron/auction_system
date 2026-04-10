@@ -1,0 +1,5 @@
+auction_state.txt
+__pycache__/
+*.pyc
+*.pyo
+key.pem
